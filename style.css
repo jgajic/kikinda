@@ -320,10 +320,10 @@ footer p {
     padding-bottom: 30px;
   }
 
-  .pocetna img {
+  /* .pocetna img {
     width: 200px;
     height: 400px;
-  }
+  } */
 
   .oNama2 h2 {
     font-size: 2rem;
@@ -362,6 +362,19 @@ footer p {
   .adresa p:first-child {
     margin-bottom: 10px;
     line-height: 1.2;
+  }
+
+  .slikaMuzej {
+    width: 350px;
+  }
+
+  .prvaSlika {
+    width: 200px;
+    height: 400px;
+  }
+
+  hr {
+    width: 85%;
   }
 }
 
